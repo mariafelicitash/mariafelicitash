@@ -1,6 +1,6 @@
 # Maria Felicitas Habarna
 
-I am a curious professional transitioning into Data Science, with a background in Communication and a couple other things.  
+I am a curious professional diving into Data Science, with a background in Communication and a couple other things.  
 My interest in data comes from a desire to understand patterns, generate insights, and contribute to meaningful, data-driven decisions.
 
 ---
