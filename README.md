@@ -4,7 +4,7 @@ Just a curious professional diving into Data Science, with a background in Commu
 and a couple other things.  
 My interest in data comes from a desire to understand patterns, generate insights, and contribute to meaningful, data-driven decisions.
 
-![banner](<iframe src="https://drive.google.com/file/d/1Y3zGyxvgI4YK2IbSUTZeihHXo6_JEeOK/preview" width="640" height="480"></iframe>)
+![banner](https://drive.google.com/file/d/1Y3zGyxvgI4YK2IbSUTZeihHXo6_JEeOK/preview)
 ---
 
 ## 🎯 Professional Focus
