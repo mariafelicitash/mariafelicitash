@@ -14,8 +14,6 @@ data-informed decision-making.
 
 - Trainee / Junior Data Scientist  
 - Trainee / Junior Data Analyst  
-- Transitioning from Communication to Data  
-
 ---
 
 ## 📌 Areas of Interest
