@@ -75,8 +75,8 @@ I am open to collaboration on data-related projects, especially those involving 
 ## 📫 Contact
 
 - Email: -
-- Portfolio: available on this GitHub profile  
-
+- Portfolio: [Access index in this very same platform](https://github.com/mariafelicitash/portfolio)
+ 
 ---
 
 ## 🎨 Additional
