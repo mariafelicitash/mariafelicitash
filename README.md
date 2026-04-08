@@ -74,7 +74,7 @@ I am open to collaboration on data-related projects, especially those involving 
 
 ## 📫 Contact
 
-- Email: felicitashabarna@gmail.com  
+- Email: -
 - Portfolio: available on this GitHub profile  
 
 ---
