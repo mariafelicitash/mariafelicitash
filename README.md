@@ -1,10 +1,13 @@
 # Maria Felicitas Habarna
 
-Just a curious professional diving into Data Science, with a background in Communication  
-and a couple other things.  
-My interest in data comes from a desire to understand patterns, generate insights, and contribute to meaningful, data-driven decisions.
+Just a curious professional diving into Data Science,  
+with a background in Communication and a couple other things.  
+I bring a communication-driven perspective to data,  
+focusing on translating complexity into clear, meaningful insights.  
+My interest lies in understanding patterns and contributing to thoughtful,  
+data-informed decision-making.
 
-![banner](https://drive.google.com/file/d/1Y3zGyxvgI4YK2IbSUTZeihHXo6_JEeOK/preview)
+![banner](https://media1.tenor.com/m/qO4_SbfQMkgAAAAd/drinking-tea.gif)
 ---
 
 ## 🎯 Professional Focus
